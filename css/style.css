@@ -238,9 +238,13 @@ h2 {
   padding-top: 0
 }
 
+.github {
+  text-align: center;
+}
+
 /*------------------------ Portfolio ------------------------*/
 #project_title {
-  margin-bottom: 0;
+  margin-bottom: 1em;;
 }
 
 .card-deck {
@@ -250,7 +254,7 @@ h2 {
 
 .card {
   box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.5);
-  margin: 5em;
+  margin: 1em;
 }
 
 .btn-outline-danger {
@@ -286,6 +290,7 @@ h2 {
 .tools {
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
   margin-bottom: 2em;
 }
 
