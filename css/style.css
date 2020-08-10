@@ -75,7 +75,6 @@ header {
 .headshot {
   min-height: 300px;
   width: auto;
-
 }
 
 .header_contact_icons {
@@ -145,18 +144,11 @@ h2 {
   display: flex;
   justify-content: space-evenly;
   flex-wrap: wrap;
-
 }
 
 .card {
     margin: 20px 0;
 }
-/*
-.card-box {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-} */
 
 .card {
   box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.5);
@@ -239,7 +231,6 @@ footer {
   display: flex;
   justify-content: center;
   align-items:
-
 }
 
 #footer-action {
